@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+    container_name: housing-api
+    ports:
+      - "5000:5000"
+    environment:
+      - DB_HOST=db
+      - DB_PORT=5432
+      - DB_NAME=housing
+      - DB_USER=housing_user
+      - DB_PASSWORD=housing_user
+    depends_on:
+      - db
+
+  db:
+    image: postgres:14
+    container_name: housing-db
+    environment:
+      POSTGRES_DB: housing
+      POSTGRES_USER: housing_user
+      POSTGRES_PASSWORD: housing_user
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  postgres_data:
