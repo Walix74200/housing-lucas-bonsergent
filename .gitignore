@@ -1,0 +1,49 @@
+# Ignorer les fichiers et dossiers de l'environnement virtuel
+venv/
+.env
+
+# Ignorer les fichiers temporaires et caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorer les fichiers de configuration spécifiques aux IDE
+.vscode/
+*.swp
+*.swo
+*.idea/
+*.iml
+
+# Ignorer les fichiers de logs et de debug
+*.log
+
+# Ignorer les fichiers de modèles lourds
+*.pkl
+*.h5
+*.joblib
+*.ckpt
+
+# Ignorer les données temporaires
+data/*.csv
+!data/housing.csv  # Si tu veux suivre ce fichier spécifique
+
+
+# Ignorer les fichiers MLflow (si pas nécessaires)
+mlruns/
+
+# Ignorer les fichiers de cache de Jupyter Notebook
+*.ipynb_checkpoints
+
+# Ignorer les fichiers de dépendances locales
+requirements.txt.lock
+
+# Ignorer les fichiers de compilation
+*.o
+*.so
+*.a
+*.out
+*.exe
+
+# Ignorer les fichiers de Git LFS s'il est utilisé
+.gitattributes
