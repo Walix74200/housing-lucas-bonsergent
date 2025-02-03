@@ -1,0 +1,16 @@
+FROM python:3.9-slim
+
+# Installer MLflow dans l'image
+RUN pip install --no-cache mlflow
+
+WORKDIR /app
+
+# Copier le dossier mlruns (registry + artefacts)
+COPY mlruns /app/mlruns
+
+# Définir le tracking URI comme un chemin local
+ENV MLFLOW_TRACKING_URI=file:/app/mlruns
+
+# Lancer le modèle (alias "champion" par ex.) en écoutant sur 0.0.0.0:8000
+CMD ["mlflow", "models", "serve", "--model-uri", "runs:/04df8fa1f18245288729d5c5289fabdd/housing_rf_model", "--port", "8000", "--host", "0.0.0.0"]
+
