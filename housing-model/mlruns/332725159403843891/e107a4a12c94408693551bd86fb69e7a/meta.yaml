@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/e107a4a12c94408693551bd86fb69e7a/artifacts
+end_time: 1738530409377
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: e107a4a12c94408693551bd86fb69e7a
+run_name: traveling-donkey-947
+run_uuid: e107a4a12c94408693551bd86fb69e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738530376701
+status: 3
+tags: []
+user_id: lucas

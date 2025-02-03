@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/c764236863ea42afac49ef7685087b38/artifacts
+end_time: 1738078953797
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: c764236863ea42afac49ef7685087b38
+run_name: angry-hare-417
+run_uuid: c764236863ea42afac49ef7685087b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738078953717
+status: 4
+tags: []
+user_id: lucas

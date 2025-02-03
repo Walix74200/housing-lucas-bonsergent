@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/eebd026a49764da88bf1dc247f62cc8c/artifacts
+end_time: 1738535047714
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: eebd026a49764da88bf1dc247f62cc8c
+run_name: skittish-frog-135
+run_uuid: eebd026a49764da88bf1dc247f62cc8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738535012174
+status: 3
+tags: []
+user_id: lucas

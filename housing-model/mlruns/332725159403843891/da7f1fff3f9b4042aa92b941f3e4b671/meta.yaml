@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/da7f1fff3f9b4042aa92b941f3e4b671/artifacts
+end_time: 1738078221724
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: da7f1fff3f9b4042aa92b941f3e4b671
+run_name: bedecked-moose-42
+run_uuid: da7f1fff3f9b4042aa92b941f3e4b671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738078221637
+status: 4
+tags: []
+user_id: lucas

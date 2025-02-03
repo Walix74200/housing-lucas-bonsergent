@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/b7686282a08a4980ab920b6a4a1345cb/artifacts
+end_time: 1738079717195
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: b7686282a08a4980ab920b6a4a1345cb
+run_name: nebulous-foal-372
+run_uuid: b7686282a08a4980ab920b6a4a1345cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738079717115
+status: 4
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/04df8fa1f18245288729d5c5289fabdd/artifacts
+end_time: 1738537907697
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: 04df8fa1f18245288729d5c5289fabdd
+run_name: gregarious-cub-706
+run_uuid: 04df8fa1f18245288729d5c5289fabdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738537876118
+status: 3
+tags: []
+user_id: lucas

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/39228a088c084362bc50b5ba6c9e27de/artifacts
+end_time: 1738079716930
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: 39228a088c084362bc50b5ba6c9e27de
+run_name: enchanting-chimp-21
+run_uuid: 39228a088c084362bc50b5ba6c9e27de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738079680616
+status: 3
+tags: []
+user_id: lucas

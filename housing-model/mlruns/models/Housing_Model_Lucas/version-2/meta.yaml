@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738103881478
+current_stage: None
+description: ''
+last_updated_timestamp: 1738103881478
+name: Housing_Model_Lucas
+run_id: a2778ff7e3c64400a6caf2d201317fae
+run_link: ''
+source: models:/Housing_Model_Lucas/1
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/a2778ff7e3c64400a6caf2d201317fae/artifacts/housing_rf_model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/e42558fe678d474197bd096658d8c58c/artifacts
+end_time: 1738536396702
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: e42558fe678d474197bd096658d8c58c
+run_name: illustrious-lamb-365
+run_uuid: e42558fe678d474197bd096658d8c58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738536365696
+status: 3
+tags: []
+user_id: lucas

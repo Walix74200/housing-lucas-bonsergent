@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lucas/OneDrive/Documents/IA%20Institut/2024-2025/Cloud%20Engineering/TP1/housing-lucas-bonsergent/housing-model/mlruns/332725159403843891/a2778ff7e3c64400a6caf2d201317fae/artifacts
+end_time: 1738102851295
+entry_point_name: ''
+experiment_id: '332725159403843891'
+lifecycle_stage: active
+run_id: a2778ff7e3c64400a6caf2d201317fae
+run_name: caring-crane-662
+run_uuid: a2778ff7e3c64400a6caf2d201317fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738102816603
+status: 3
+tags: []
+user_id: lucas
